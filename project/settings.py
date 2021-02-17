@@ -16,7 +16,7 @@ SECRET_KEY = 'ze-!b=qh#j=tam2u58_v#@r*7krbvo4@715&ofe0m96deapkew' #os.environ.ge
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://127.0.0.1/','https://git.heroku.com/sunandaphotographys.git',]
+ALLOWED_HOSTS = ['http://127.0.0.1/','https://sunandaphotographys.herokuapp.com/']
 
 
 # Application definition
